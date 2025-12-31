@@ -1,4 +1,6 @@
 .venv
 gs_npz/*
 img/*
+!img/.gitkeep
 outputs/*
+!outputs/.gitkeep
