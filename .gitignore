@@ -1,0 +1,4 @@
+.venv
+gs_npz/*
+img/*
+outputs/*
